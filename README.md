@@ -13,3 +13,4 @@ The repository contain the following files:
 - CodeBook.md *This codebook contains information on the data used for the project, the methodology used in the run.analysis.R script to gather and clean the data, the variables created by the script and the final tidy data set that the script produces.*
 - finalTidy.txt *The final data set produced by the script*
 - README.md *You´re reading it right now!*
+# gettingAndCleaningData
