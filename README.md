@@ -14,3 +14,4 @@ The repository contain the following files:
 - finalTidy.txt *The final data set produced by the script*
 - README.md *You´re reading it right now!*
 # gettingAndCleaningData
+# gettingAndCleaningData
